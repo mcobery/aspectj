@@ -9,6 +9,7 @@ public class AppB {
 		System.out.println("B end");
 	}
 
+	
 	public void hello(String name) {
 	}
 }

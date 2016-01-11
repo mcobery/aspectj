@@ -1,6 +1,7 @@
 package com.emnify.aspects;
 
 public aspect Trace {
+  
 	pointcut publicMethodExecuted(): execution(public !static * *(..));
 
 	after(): publicMethodExecuted() {

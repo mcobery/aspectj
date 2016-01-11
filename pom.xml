@@ -22,7 +22,7 @@
 		<dependencies>
 			<dependency>
 				<groupId>com.emnify</groupId>
-				<artifactId>ProjectA</artifactId>
+				<artifactId>ProjectC</artifactId>
 				<version>${project.version}</version>
 				<systemPath></systemPath>
 			</dependency>
